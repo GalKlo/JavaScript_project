@@ -27,11 +27,11 @@ Data is retrieved from URL (https://2u-data-curriculum-team.s3.amazonaws.com/dat
 ![Getting Started](dashboard/metadata.png)
 
 * Two charts are built to display the analysis results:
-    - Bar chart - shows top 10 OTUs found in that individual. Sample_values is used as the values, otu_ids as the labels and otu_labels as the hovertext.
+- Bar chart - shows top 10 OTUs found in that individual. Sample_values is used as the values, otu_ids as the labels and otu_labels as the hovertext.
 
 ![Getting Started](dashboard/barchart.png)
 
-    - Bubble chart - displays each sample. Uses otu_ids for the x values, sample_values for the y values, sample_values for the marker size, otu_ids for the marker color, otu_labels for the text values.
+- Bubble chart - displays each sample. Uses otu_ids for the x values, sample_values for the y values, sample_values for the marker size, otu_ids for the marker color, otu_labels for the text values.
 
 ![Getting Started](dashboard/bubblechart.png)
 
