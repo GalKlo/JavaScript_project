@@ -18,6 +18,8 @@ This project focuses on creating an interactive, user-friendly dashboard to expl
 Data is retrieved from URL (https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.D3) using D3 library.
 
 ## Instructions
+Dashboard: https://galklo.github.io/JavaScript_project/
+
 * Values in the dropdown menu are updating based on the nameIDs in the dataset.
 
 ![Getting Started](dashboard/filter.png)
