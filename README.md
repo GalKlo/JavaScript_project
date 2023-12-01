@@ -20,11 +20,11 @@ Data is retrieved from URL (https://2u-data-curriculum-team.s3.amazonaws.com/dat
 ## Instructions
 * Values in the dropdown menu are updating based on the nameIDs in the dataset.
 
-![Getting Started](dashboard/metadata.png)
+![Getting Started](dashboard/filter.png)
 
 * Sample metadata, i.e., an individual's demographic information is displayed in the Demographic Info box. The metadata includes each key-value pair from the metadata JSON object. 
 
-![Getting Started](dashboard/filter.png)
+![Getting Started](dashboard/metadata.png)
 
 * Two charts are built to display the analysis results:
     - Bar chart - shows top 10 OTUs found in that individual. Sample_values is used as the values, otu_ids as the labels and otu_labels as the hovertext.
